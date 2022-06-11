@@ -12,9 +12,9 @@
 
 ## About:
 - 🇺🇸 U.S. Army Veteran
-- 🎓 Bachelor's in Information Technology
-- 🇻🇪 Fluent in Spanish, originally from Venezuela
-- 🧑🏻‍💻 Enjoy meeting new people and working with large groups
+- 🎓 Bachelors in Information Technology
+- 🇻🇪 Fluent in Spanish, from Venezuela
+- 🧑🏻‍💻 Enjoy meeting new people and working in groups
 - 🏆 Fun Fact: Love competing in Spartan OCR
 - 🌍 I believe technology can change the world in a positive way, I want to contribute to that world!
 
