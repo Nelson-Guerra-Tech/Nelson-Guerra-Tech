@@ -7,7 +7,7 @@
   </div>
  
 <div align="center">
-  <h3>🤝 nelsonguerra.tech@outlook.com 💬</h3>
+  <h3>📬 nelsonguerra.tech@outlook.com</h3>
  <a href="https://www.linkedin.com/in/nelson-guerra-7075b413a/"><img  src="https://user-images.githubusercontent.com/62409790/164713432-1ae2a72b-c61d-4123-80bc-20005a38947b.png" alt="icon | LinkedIn" width="50px"/></a> </div>
 
 ## About:
