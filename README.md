@@ -3,7 +3,7 @@
 <img width="1327" alt="Screen Shot 2022-04-22 at 12 44 20 AM" src="https://user-images.githubusercontent.com/62409790/164605193-8f5cb5ee-305c-4be6-ac97-9092adf9d912.png">
   </div>
   <div align="center">
-  <h1>📱 Web Developer | 🌎 Georgia, USA</h1>
+  <h1>🌎 Georgia, USA</h1>
   </div>
  
 <div align="center">
