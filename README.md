@@ -20,29 +20,22 @@
   
  ## 💻 Technologies & Tools:
  <div>
-  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png?20160527092314">
   <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   </div>
   
   <br>
 
 ### 🌱 I’m currently learning:
-- Deeper understanding of JavaScript arrays, objects, & API
-- React.js basic fundamentals
 - Angular NgRx
 - Online course on UI/UX design
 
-### 🧠 I’m currently Reading:
-- JavaScript: The Definitive Edition Guide, by David Flanagan
+### 🧠 I’m currently reading:
+- Atomic Habits by James Clear
 
 <!--
-**Pixelated-Nelly/Pixelated-Nelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
